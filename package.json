@@ -1,0 +1,13 @@
+{
+  "name": "button-click-display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
+
